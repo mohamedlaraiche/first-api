@@ -2,9 +2,9 @@
   "name": "cart",
   "version": "1.0.0",
   "description": "",
-  "main": "Server.js",
+  "main": "server.js",
   "scripts": {
-    "Server": "nodemon Server.js"
+    "server": "nodemon server.js"
   },
   "author": "Mohamed Laraiche",
   "license": "MIT",
